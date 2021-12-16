@@ -1,0 +1,84 @@
+#fon{background: rgb(32, 32, 49);}
+.container{margin-top: 250px;}
+.foto{display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.col-lg{border: 1px solid black;
+border-radius: 30px;
+background-color: rgb(32, 49, 65);
+margin-left: 15px;
+height: 500px;} 
+p{color: rgb(206, 16, 73);}
+.marks{margin-left: 220px;
+margin-top: 7px;
+border-bottom-right-radius: 4px;
+border-top-left-radius: 4px;
+border-bottom-left-radius: 4px;
+border-top-right-radius: 4px;
+background: rgba(46, 154, 158, 0.884);
+width: 65px;
+height: 27px;
+text-align: center;
+font-size: 14px;
+}
+#one-comp:hover{box-shadow: black 0 0 20px,
+    15px 10px 20px rgb(124, 151, 5),
+    -15px 10px 20px rgb(9, 84, 182),
+    -15px -10px 20px rgb(189, 16, 189),
+    15px -10px 20px rgb(223, 154, 7);
+height: 600px;}
+#two-comp:hover{box-shadow: black 0 0 20px,
+    15px 10px 20px rgb(163, 6, 202),
+    -15px 10px 20px rgb(121, 216, 26),
+    -15px -10px 20px rgb(5, 215, 223),
+    15px -10px 20px rgb(240, 6, 95);
+height: 600px;}
+#three-comp:hover{box-shadow: black 0 0 20px,
+    15px 10px 20px rgb(162, 165, 4),
+    -15px 10px 20px rgb(184, 57, 7),
+    -15px -10px 20px rgb(8, 120, 212),
+    15px -10px 20px rgb(3, 236, 159);
+height: 600px;}
+#four-comp:hover{box-shadow: black 0 0 20px,
+    15px 10px 20px red,
+    -15px 10px 20px lawngreen,
+    -15px -10px 20px blue,
+    15px -10px 20px yellow;
+height: 600px;}
+.prices{margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;}
+.price{background: rgb(12, 70, 228);
+border-bottom-right-radius: 25px;
+border-top-left-radius: 25px;
+border-bottom-left-radius: 25px;
+border-top-right-radius: 25px;
+width: 70px;
+height: 25px;
+text-align: center;
+color: rgb(219, 10, 73);
+}
+.bin{color: rgb(13, 115, 211);
+}
+.point{margin-top: 20px;
+display: flex;
+justify-content: space-between;}
+.buy{margin-top: 20px;}
+.buy-click{border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+width: 280px;
+height: 35px;
+background: rgb(8, 235, 216);}
+.buy-click:hover{background: rgb(50, 119, 3);}
+.light-time{width: 100px;
+    height: 50px;
+    background: rgb(112, 241, 7);
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px; 
+}
